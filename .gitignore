@@ -9,3 +9,7 @@ yarn-error.log*
 coverage/
 .vscode/
 .DS_Store
+
+/generated/prisma
+
+/generated/prisma
